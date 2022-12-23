@@ -1,1 +1,1 @@
-"# Snake-SVG" 
+# Snake-SVG
